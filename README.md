@@ -1,5 +1,6 @@
 # VPLE 
-<img src="https://github.com/Adityaraj6/VPLE/blob/main/VPLE.png" width="150" height="150">
+<img src="https://github.com/Adityaraj6/VPLE/blob/main/VPLE.png" width="125" height="125">
+
 ## Vulnerable Pentesting Lab Environment
 
 VPLE is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing Labs. In VPLE bunch of labs Available.
