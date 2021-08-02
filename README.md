@@ -1,6 +1,6 @@
 # VPLE 
 ![](https://github.com/Adityaraj6/VPLE/blob/main/VPLE.png)
-<img src="https://github.com/Adityaraj6/VPLE/blob/main/VPLE.png" width="660" height="856">
+<img src="https://github.com/Adityaraj6/VPLE/blob/main/VPLE.png" width="100" height="100">
 
 ## Vulnerable Pentesting Lab Environment
 
