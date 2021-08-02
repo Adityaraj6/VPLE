@@ -61,7 +61,8 @@ To access a particular web application, just type IP address then enter the port
 | Security-ninjas | eg. 192.168.255.143`:8899/` |
 | Wordpress | eg. 192.168.255.143`:8800/` |
 
-<img src="https://github.com/Adityaraj6/VPLE/blob/main/VPLE.png" width="125" height="125">
+## Screenshot
+<img src="https://github.com/Adityaraj6/VPLE/blob/main/VPLE%20WebView.jpg" width="510" height="606">
 
 ### Contact:- DarkKing6@protonmail.com 
 ## License
