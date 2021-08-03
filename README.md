@@ -16,7 +16,7 @@ VPLE is an intentionally vulnerable Linux virtual machine. This VM can be used t
 
 OR Download form Mega
 
-[![Download VPLE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VWEMyMm2hhImYooqd2a4QbnekX1WiHNX__wFI1Bd-AY7lKfJksa_nMYkhgnXCx98JA&usqp=CAU)](https://mega.nz/file/e8sx1aza#Ap5CqsmLyZJVY_YWN5P3gxxzMc6T4ofdRvG6AR14HdE)
+[![Download VPLE From Mega]](https://mega.nz/file/e8sx1aza#Ap5CqsmLyZJVY_YWN5P3gxxzMc6T4ofdRvG6AR14HdE)
 
 
 ## Features
