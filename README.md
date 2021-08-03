@@ -3,8 +3,9 @@
 
 ## Vulnerable Pentesting Lab Environment
 
-[![Download VPLE](https://sourceforge.net/sflogo.php?type=13&group_id=3400211)](https://sourceforge.net/p/vple/)
+[![Download VPLE](https://sourceforge.net/sflogo.php?type=11&group_id=3400211)](https://sourceforge.net/p/vple/)
 [![Download VPLE](https://img.shields.io/sourceforge/dt/vple.svg)](https://sourceforge.net/projects/vple/files/latest/download)
+
 VPLE is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing Labs. In VPLE bunch of labs Available.
 
 > #### The default login and password is `administrator`:`password`.
