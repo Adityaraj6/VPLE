@@ -10,6 +10,10 @@ VPLE is an intentionally vulnerable Linux virtual machine. This VM can be used t
 
 > #### The default login and password is `administrator`:`password`.
 
+## Download Links
+
+[![Download VPLE](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vple/files/latest/download)
+
 
 ## Features
 
